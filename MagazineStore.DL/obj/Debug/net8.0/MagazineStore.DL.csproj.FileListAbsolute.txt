@@ -1,0 +1,16 @@
+C:\Users\Vladislav\Desktop\magazine\MagazineStore\MagazineStore\MagazineStore.DL\obj\Debug\net8.0\MagazineStore.DL.csproj.AssemblyReference.cache
+C:\Users\Vladislav\Desktop\magazine\MagazineStore\MagazineStore\MagazineStore.DL\obj\Debug\net8.0\MagazineStore.DL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vladislav\Desktop\magazine\MagazineStore\MagazineStore\MagazineStore.DL\obj\Debug\net8.0\MagazineStore.DL.AssemblyInfoInputs.cache
+C:\Users\Vladislav\Desktop\magazine\MagazineStore\MagazineStore\MagazineStore.DL\obj\Debug\net8.0\MagazineStore.DL.AssemblyInfo.cs
+C:\Users\Vladislav\Desktop\magazine\MagazineStore\MagazineStore\MagazineStore.DL\obj\Debug\net8.0\MagazineStore.DL.csproj.CoreCompileInputs.cache
+C:\Users\Vladislav\Desktop\magazine\MagazineStore\MagazineStore\MagazineStore.DL\obj\Debug\net8.0\MagazineStore.DL.sourcelink.json
+C:\Users\Vladislav\Desktop\magazine\MagazineStore\MagazineStore\MagazineStore.DL\bin\Debug\net8.0\MagazineStore.DL.deps.json
+C:\Users\Vladislav\Desktop\magazine\MagazineStore\MagazineStore\MagazineStore.DL\bin\Debug\net8.0\MagazineStore.DL.dll
+C:\Users\Vladislav\Desktop\magazine\MagazineStore\MagazineStore\MagazineStore.DL\bin\Debug\net8.0\MagazineStore.DL.pdb
+C:\Users\Vladislav\Desktop\magazine\MagazineStore\MagazineStore\MagazineStore.DL\bin\Debug\net8.0\MagazineStore.Models.dll
+C:\Users\Vladislav\Desktop\magazine\MagazineStore\MagazineStore\MagazineStore.DL\bin\Debug\net8.0\MagazineStore.Models.pdb
+C:\Users\Vladislav\Desktop\magazine\MagazineStore\MagazineStore\MagazineStore.DL\obj\Debug\net8.0\Magazine.220D9DA7.Up2Date
+C:\Users\Vladislav\Desktop\magazine\MagazineStore\MagazineStore\MagazineStore.DL\obj\Debug\net8.0\MagazineStore.DL.dll
+C:\Users\Vladislav\Desktop\magazine\MagazineStore\MagazineStore\MagazineStore.DL\obj\Debug\net8.0\refint\MagazineStore.DL.dll
+C:\Users\Vladislav\Desktop\magazine\MagazineStore\MagazineStore\MagazineStore.DL\obj\Debug\net8.0\MagazineStore.DL.pdb
+C:\Users\Vladislav\Desktop\magazine\MagazineStore\MagazineStore\MagazineStore.DL\obj\Debug\net8.0\ref\MagazineStore.DL.dll
