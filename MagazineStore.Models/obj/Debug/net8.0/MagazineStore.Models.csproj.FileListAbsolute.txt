@@ -1,0 +1,13 @@
+C:\Users\Vladislav\Desktop\magazine\MagazineStore\MagazineStore\MagazineStore.Models\obj\Debug\net8.0\MagazineStore.Models.csproj.AssemblyReference.cache
+C:\Users\Vladislav\Desktop\magazine\MagazineStore\MagazineStore\MagazineStore.Models\obj\Debug\net8.0\MagazineStore.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vladislav\Desktop\magazine\MagazineStore\MagazineStore\MagazineStore.Models\obj\Debug\net8.0\MagazineStore.Models.AssemblyInfoInputs.cache
+C:\Users\Vladislav\Desktop\magazine\MagazineStore\MagazineStore\MagazineStore.Models\obj\Debug\net8.0\MagazineStore.Models.AssemblyInfo.cs
+C:\Users\Vladislav\Desktop\magazine\MagazineStore\MagazineStore\MagazineStore.Models\obj\Debug\net8.0\MagazineStore.Models.csproj.CoreCompileInputs.cache
+C:\Users\Vladislav\Desktop\magazine\MagazineStore\MagazineStore\MagazineStore.Models\obj\Debug\net8.0\MagazineStore.Models.sourcelink.json
+C:\Users\Vladislav\Desktop\magazine\MagazineStore\MagazineStore\MagazineStore.Models\bin\Debug\net8.0\MagazineStore.Models.deps.json
+C:\Users\Vladislav\Desktop\magazine\MagazineStore\MagazineStore\MagazineStore.Models\bin\Debug\net8.0\MagazineStore.Models.dll
+C:\Users\Vladislav\Desktop\magazine\MagazineStore\MagazineStore\MagazineStore.Models\bin\Debug\net8.0\MagazineStore.Models.pdb
+C:\Users\Vladislav\Desktop\magazine\MagazineStore\MagazineStore\MagazineStore.Models\obj\Debug\net8.0\MagazineStore.Models.dll
+C:\Users\Vladislav\Desktop\magazine\MagazineStore\MagazineStore\MagazineStore.Models\obj\Debug\net8.0\refint\MagazineStore.Models.dll
+C:\Users\Vladislav\Desktop\magazine\MagazineStore\MagazineStore\MagazineStore.Models\obj\Debug\net8.0\MagazineStore.Models.pdb
+C:\Users\Vladislav\Desktop\magazine\MagazineStore\MagazineStore\MagazineStore.Models\obj\Debug\net8.0\ref\MagazineStore.Models.dll
